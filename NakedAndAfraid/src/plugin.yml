@@ -1,0 +1,9 @@
+name: NakedAndAfraid
+main: me.theencomputers.nakedandafraid.Main
+version: 1.0.0
+depend:
+- ProtocolLib
+commands:
+   nakedandafraid:
+      description: Handles the naked and afraid scenario
+      usage: /nakedandafraid <enable|disable>
